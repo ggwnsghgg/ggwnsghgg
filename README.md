@@ -9,7 +9,7 @@
 <br>
 <br>
 
-👨‍💻 제가 진행한 모든 프로젝트의 내용은 옆 주소를 참고해주세요 https://github.com/ggwnsghgg/
+👨‍💻 제가 진행한 모든 프로젝트의 내용은 옆 주소를 참고해주세요 https://github.com/ggwnsghgg?tab=repositories
 
 <br>
 <br>
