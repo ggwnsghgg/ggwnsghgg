@@ -8,10 +8,10 @@
 <!-- 📄 Know about my experiences --!>
 
 
-🌱 I’m currently learning Django and Machine learning, Depp learning
+🌱 I’m currently learning Django and Machine learning, Depp learning <br>
 
-👨‍💻 All of my projects are available at https://github.com/ggwnsghgg/
+👨‍💻 All of my projects are available at https://github.com/ggwnsghgg/  <br>
 
-📫 How to reach me ggwnsghgg@gmail.com
+📫 How to reach me ggwnsghgg@gmail.com  <br>
 
 ⚡ I am a non-major, and I am studying from a back-end developer to data science.
