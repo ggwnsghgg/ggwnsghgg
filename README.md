@@ -20,8 +20,8 @@
 
 ⚡ I am a non-major, and I am studying from a back-end developer to data science.
 
-
-
+<br>
+<br>
 
 
  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ggwnsghgg)](https://github.com/anuraghazra/github-readme-stats)
