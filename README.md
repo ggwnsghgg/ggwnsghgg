@@ -3,12 +3,12 @@
 <br>
 <br>
 
-🌱 I’m currently learning Django and Machine learning, Depp learning 
+🌱 안녕하세요 현재 Django 와 머신러닝, 딥러닝을 주로 학습중인 신준호 라고합니다!
 
 <br>
 <br>
 
-👨‍💻 All of my projects are available at https://github.com/ggwnsghgg/
+👨‍💻 제가 진행한 모든 프로젝트의 내용은 옆 주소를 참고해주세요 https://github.com/ggwnsghgg/
 
 <br>
 <br>
