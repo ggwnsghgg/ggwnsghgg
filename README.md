@@ -1,12 +1,12 @@
-### Hi there 👋!! 
+### Hi there 👋
 
-<br>
+
  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ggwnsghgg)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
-<!-- 📝 I regulary write articles on https://chanmi-kim.github.io --!>
-<!-- 💬 Ask me about anything whatever! Github, Hexo, Spring Boot, Java, Life, Game, and so on. --!>
-<!-- 📄 Know about my experiences --!>
+<br>
+
+
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://ggwnsghgg.github.io/)](https://ggwnsghgg.github.io/)
 	
@@ -23,3 +23,11 @@
 <br>
 <br>
 ⚡ I am a non-major, and I am studying from a back-end developer to data science.
+
+
+
+
+
+<!-- 📝 I regulary write articles on https://chanmi-kim.github.io --!>
+<!-- 💬 Ask me about anything whatever! Github, Hexo, Spring Boot, Java, Life, Game, and so on. --!>
+<!-- 📄 Know about my experiences --!>
