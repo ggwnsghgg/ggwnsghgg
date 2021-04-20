@@ -13,12 +13,12 @@
 <br>
 <br>
 
-📫 How to reach me ggwnsghgg@gmail.com 
+📫 문의사항은 옆 이메일로 보내주시기 바랍니다 ggwnsghgg@gmail.com 
 
 <br>
 <br>
 
-⚡ I am a non-major, and I am studying from a back-end developer to data science.
+⚡ 비전공자로 시작해 백엔드 개발자를 시작으로 데이터 사이언티스를 최종목표로 열심히 공부중입니다.
 
 <br>
 <br>
