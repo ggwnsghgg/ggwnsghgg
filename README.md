@@ -17,10 +17,7 @@
 📫 문의사항은 옆 이메일로 보내주시기 바랍니다 ggwnsghgg@gmail.com 
 
 <br>
-<br>
-
-⚡ 
-
+<br> 
 <br>
 <br>
 
