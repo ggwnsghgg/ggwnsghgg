@@ -35,7 +35,7 @@
 
 
 
-<!-- [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://ggwnsghgg.github.io/)](https://ggwnsghgg.github.io/)
+<!-- [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://ggwnsghgg.github.io/)](https://ggwnsghgg.github.io/) -->
 	
 	
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/준호-신-1371971bb/)](https://www.linkedin.com/in/준호-신-1371971bb/)
