@@ -4,7 +4,7 @@
 <br>
 
 🌱 안녕하세요 현재 Link-up 회사에 근무중입니다.		<br>
-   현재 Open Source인 Odoo개발에 백엔드 부분을 맡아 일하고 있습니다.!
+   현재 Open Source인 Odoo의 백엔드 부분을 맡아 개발하고 있습니다.!
 
 <br>
 <br>
