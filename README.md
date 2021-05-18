@@ -3,13 +3,13 @@
 <br>
 <br>
 
-🌱 안녕하세요 현재 Django 와 머신러닝, 딥러닝을 주로 학습중인 신준호 라고합니다!<br>
-    저의 목표는 백엔드 개발자를 시작으로 데이터 사이언티스를 최종목표로 열심히 공부중입니다.
+🌱 안녕하세요 현재 Link-up 회사에 근무중입니다.br>
+   현재 Open Source인 Odoo개발에 백엔드 부분을 맡아 일하고 있습니다.!
 
 <br>
 <br>
 
-👨‍💻 제가 진행한 모든 프로젝트의 내용은 옆 주소를 참고해주세요 https://github.com/ggwnsghgg?tab=repositories
+👨‍💻 제가 교육하면서 진행한 모든 프로젝트의 내용은 옆 주소를 참고해주세요 https://github.com/ggwnsghgg?tab=repositories
 
 <br>
 <br>
