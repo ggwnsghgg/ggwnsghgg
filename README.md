@@ -6,21 +6,6 @@
 🌱 안녕하세요 현재 Link-up 회사에 근무중입니다. (2021-05-17 ~ )		<br>
    현재 Open Source인 Odoo의 백엔드 부분을 맡아 개발하고 있습니다.!
 
-<br>
-<br>
-
-👨‍💻 제가 교육하면서 진행한 모든 프로젝트의 내용은 옆 주소를 참고해주세요 https://github.com/ggwnsghgg?tab=repositories
-
-<br>
-<br>
-
-📫 문의사항은 옆 이메일로 보내주시기 바랍니다 ggwnsghgg@gmail.com 
-
-<br>
-<br> 
-<br>
-<br>
-
 
  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ggwnsghgg)](https://github.com/anuraghazra/github-readme-stats)
 
