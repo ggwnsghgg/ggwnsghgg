@@ -1,93 +1,64 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Junho%20Shin&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Odoo%20Backend%20Developer&descAlignY=60&descSize=22)
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Odoo+Backend+Developer+%F0%9F%90%8D;Open+Source+Enthusiast+%E2%9C%A8;Building+Odoo+19+Modules;On-premise+%26+Cloud+Infrastructure)](https://git.io/typing-svg)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Junho%20Shin&fontSize=56&fontColor=fff&fontAlignY=38&desc=ERP%20%C2%B7%20AI%20workflow%20%C2%B7%20Local%20LLM&descAlignY=62&descSize=20)
 
 </div>
 
----
+## 신준호 · Junho Shin
 
-## 👋 About Me
-
-안녕하세요! **신준호(Junho Shin)** 입니다.
-[Link-up](https://github.com/linkup) 에서 **Odoo 백엔드 개발자**로 근무 중입니다. (2021.05.17 ~)
-
-오픈소스 ERP인 **Odoo**의 백엔드 모듈 개발을 담당하고 있으며,
-온프레미스 서버 구축부터 커스텀 모듈 개발까지 폭넓게 작업하고 있습니다.
+한국 중소기업의 회계·세무 업무를 시스템으로 옮기는 일을 5년째 하고 있습니다.
+지금은 **AI가 만든 코드를 검수·통합하는 체계**를 만들고, **로컬 LLM을 실무에 쓰는 방법**을 숫자로 정리하는 데 집중합니다.
 
 ```python
 shin = {
-    "company":   "Link-up",
-    "role":      "Odoo Backend Developer",
-    "since":     "2021-05-17",
-    "focus":     ["Odoo 19 Module Dev", "On-premise Setup", "ERP Customization"],
-    "currently": "Building Accounting & Contacts modules for Shinhan Fund Partners"
+    "base":     "Odoo ERP backend (2021~) — 회계·전자세금계산서·은행/카드 연동·금융권 운영",
+    "now":      ["AI 코드 검수·위임 체계", "로컬 LLM 평가·서빙·파인튜닝", "자동화 도구"],
+    "principle": "2주 안에 측정표가 안 나오는 일은 하지 않는다",
 }
 ```
 
 ---
 
-## 🛠️ Tech Stack
+## 세 가지 축
 
-**Languages & Frameworks**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![XML](https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=xml&logoColor=white)
-
-**Database & Infrastructure**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![pgvector](https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Rocky Linux](https://img.shields.io/badge/Rocky%20Linux-10B981?style=for-the-badge&logo=rockylinux&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+| 축 | 무엇 | 왜 |
+|---|---|---|
+| **도메인** | 한국 회계·세무·전자세금계산서(바로빌)·은행/카드 대사·금융권 컴플라이언스 운영 | 시스템이 바뀌어도 남는 지식 |
+| **AI 활용 체계** | AI가 만든 코드의 검수 기준, 위임 구조, 사고를 규칙으로 바꾸는 루프, 측정 중심 학습 | 혼자서 팀만큼 내는 방법 |
+| **로컬 LLM** | 모델 선택·양자화·평가셋·서빙·LoRA를 수치로 비교 (Mac 48GB · RTX 4070 Ti Super) | 데이터를 밖에 못 내보내는 현장을 위한 기술 |
 
 ---
 
-## 📊 GitHub Stats
+## 공개 작업 (진행 중)
 
-<div align="center">
+| 프로젝트 | 상태 | 내용 |
+|---|---|---|
+| local-llm-bench | 준비 중 | 같은 모델을 양자화별·기기별로 돌린 메모리·속도·품질 표 |
+| ko-business-eval | 준비 중 | 한국 실무(회계·세무·문서) 질문 평가셋과 로컬 모델 점수표 |
+| ai-code-review-checklist | 준비 중 | AI 생성 코드 검수 체크리스트와 "재발 2회면 자동화" 운영 방식 |
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ggwnsghgg&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ggwnsghgg&layout=compact&langs_count=8&theme=tokyonight"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=ggwnsghgg&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-</div>
+> 회사·고객 코드는 포함하지 않습니다. 방법과 측정 결과만 공개합니다.
 
 ---
 
-## 🔗 Links
+## Stack
 
-<div align="center">
-
-[![Tech Blog](https://img.shields.io/badge/Tech%20Blog-000000?style=for-the-badge&logo=github&logoColor=white)](https://ggwnsghgg.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/준호-신-1371971bb/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ggwnsghgg)
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fggwnsghgg%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-</div>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Odoo](https://img.shields.io/badge/Odoo-714B67?style=flat-square&logo=odoo&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
 ---
 
 <div align="center">
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=ggwnsghgg&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+[![Tech Blog](https://img.shields.io/badge/Blog-000000?style=flat-square&logo=github&logoColor=white)](https://ggwnsghgg.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/준호-신-1371971bb/)
 
 </div>
